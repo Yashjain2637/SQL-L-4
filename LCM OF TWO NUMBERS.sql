@@ -1,0 +1,21 @@
+-- USING WHILE LOOP FIND OUT THE LCM OF TWO NUMBERS
+
+-- DECLARE
+--     a int := 8;
+--     b int := 18;
+--     lcm int;
+-- BEGIN
+--     if a>b then 
+--         lcm := a;
+--     ELSE
+--         lcm := b;
+--     end if;
+
+--     while TRUE LOOP
+--         if (mod(lcm,a)=0 and mod(lcm,b)=0) then
+--             DBMS_OUTPUT.PUT_LINE('LCM IS : ' || lcm);
+--             EXIT;
+--         end if;
+--         lcm := lcm +1;
+--     END LOOP;
+-- end;
